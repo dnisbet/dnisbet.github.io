@@ -1,0 +1,12 @@
+work: email
+work: opsworks check
+work: research
+lunch **
+walk **
+quit **
+arrived **
+coffee **
+work: tickets
+work: apt update
+work: server build
+work: chef coding
